@@ -1,7 +1,7 @@
 # Image Acquisition using Web Camera
 
-### Name : Gughan S
-### Register No : 212223240043
+### Name : SADHANA SHREE B
+### Register No : 212223230177
 
 ## Aim:
  
@@ -47,6 +47,8 @@ while(True):
     if cv2.waitKey(1) == ord('q'):
         break
 obj.release()
+
+
 ```
 ## ii) Display the video
 ```
@@ -106,21 +108,32 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 
-![image](https://github.com/user-attachments/assets/10b9af13-aeb5-4cfa-9c26-aec4d9b4f35b)
+![image](https://github.com/user-attachments/assets/d3b7f80c-0aa6-4f7e-8990-5455011068fa)
+
 
 
 ### ii) Display the video
-![image](https://github.com/user-attachments/assets/f7e80126-3cac-4ff0-843c-d78393eb958e)
+![image](https://github.com/user-attachments/assets/2e707d71-ab99-4ed0-b2eb-c49a4d9336ed)
+![image](https://github.com/user-attachments/assets/e0f0cc4a-44a5-45cc-9f4f-61e08d65ae90)
+
+
+
 
 
 
 ### iii) Display the video by resizing the window
 
-![image](https://github.com/user-attachments/assets/03948ebe-d62d-47ed-8c7d-3da0aa5aaccc)
+![image](https://github.com/user-attachments/assets/f382b2a2-e06f-42dc-b0d2-f251a074cd74)
+![image](https://github.com/user-attachments/assets/33b7038a-54ef-40cb-acd1-9249b2298fbf)
+
+
 
 
 ### iv) Rotate and display the video
-![image](https://github.com/user-attachments/assets/f93034a0-6662-4cba-9857-4fa49d05bdec)
+![image](https://github.com/user-attachments/assets/aec87ee8-4e22-436e-8cf3-88f025b5c0c9)
+![NP](https://github.com/user-attachments/assets/1b88af42-8ce9-49b0-8657-1d1364dcefb3)
+
+
 
 
 
